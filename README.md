@@ -1,4 +1,4 @@
 # myfirst-repository
 This is my first git repository.
 <br>
-Author -Akshit Anand
+Author -Akshit Anand (18)
