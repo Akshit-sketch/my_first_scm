@@ -1,1 +1,2 @@
-# my_first_scm
+# my_first_repository
+This is my first git repository.
